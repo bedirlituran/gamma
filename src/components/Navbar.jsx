@@ -20,27 +20,27 @@ const Navbar = () => {
             <div className="flex basis-2/4 items-center justify-center px-6">
               <ul className="flex flex-row gap-4 items-center justify-center text-yellow-50 font-bold tracking-wide text-lg">
                 <a
-                  href="#"
+                  href="/anasehife"
                   className=" hover:text-red-400  transition-all duration-500 ">
                   <li>Ana Səhifə</li>
                 </a>
                 <a
-                  href="#"
+                  href="/haqqinda"
                   className=" hover:text-red-400   transition-all duration-500 ">
                   <li>Haqqında</li>
                 </a>
                 <a
-                  href="#"
+                  href="xidmetler"
                   className=" hover:text-red-400   transition-all duration-500 ">
                   <li>Xidmətlər</li>
                 </a>
                 <a
-                  href="#"
+                  href="/layiheler"
                   className=" hover:text-red-400 transition-all duration-500 ">
                   <li>Layihələr </li>
                 </a>
                 <a
-                  href="#"
+                  href="/elaqe"
                   className=" hover:text-red-400   transition-all duration-500 ">
                   <li>Əlaqə</li>
                 </a>
