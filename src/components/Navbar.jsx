@@ -22,7 +22,7 @@ const Navbar = () => {
                 <a
                   href="/anasehife"
                   className=" hover:text-red-400  transition-all duration-500 ">
-                  <li>Ana Səhifə</li>
+                  <li>Turan</li>
                 </a>
                 <a
                   href="/haqqinda"
